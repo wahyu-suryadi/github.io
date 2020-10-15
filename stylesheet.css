@@ -32,7 +32,7 @@
   
   .top-wrapper {
     padding: 180px 0 100px 0;
-    background-image: url(img/hero_1.jpg);
+    background-image: url(hero_1.jpg);
     background-size: cover;
     color: rgba(6, 133, 133, 0.815);
     text-align: center;
